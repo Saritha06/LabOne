@@ -30,7 +30,7 @@ public class LabOne {
 
 
 
-       // boolean answer = true;
+        boolean answer = true;
         System.out.println("Do you want to continue?(Y/N): ");
         //answer = scnr.
         if (answer == true){
